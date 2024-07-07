@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 demo link
 
-[demo](https://elaborate-horse-e5b3dc.netlify.app/)
+[demo](https://elaborate-horse-e5b3dc.netlify.app/) https://elaborate-horse-e5b3dc.netlify.app/
 
 ## Getting Started
 
