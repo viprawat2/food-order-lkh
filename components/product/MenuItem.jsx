@@ -15,8 +15,7 @@ const MenuItem = () => {
       <div className="p-[25px] text-white">
         <h4 className="text-xl font-semibold">Delicious Pizza</h4>
         <p className="text-[15px]">
-          Veniam debitis quaerat officiis quasi cupiditate quo, quisquam velit,
-          magnam voluptatem repellendus sed eaque
+          Best pizza in town
         </p>
         <div className="flex justify-between items-center mt-4">
           <span>$20</span>
